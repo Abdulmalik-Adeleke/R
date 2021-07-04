@@ -42,7 +42,6 @@ for(i in x)
 #THE DEFAULT IS 3 BUT ANY NUMBER CAN BE SET
 ###################
 
-plot(x)
 x<- array(c(2, 3, 1, 19, 18, 12, 17, 18, 22, 32, 20, 11, 8, 5))
 new <- 1
 for(i in x)
